@@ -1,0 +1,6 @@
+C:\Users\Viren\Desktop\CS480\Final-Project\BuildEvenSplit\BuildEvenSplit\bin\Debug\BuildEvenSplit.exe.config
+C:\Users\Viren\Desktop\CS480\Final-Project\BuildEvenSplit\BuildEvenSplit\bin\Debug\BuildEvenSplit.exe
+C:\Users\Viren\Desktop\CS480\Final-Project\BuildEvenSplit\BuildEvenSplit\bin\Debug\BuildEvenSplit.pdb
+C:\Users\Viren\Desktop\CS480\Final-Project\BuildEvenSplit\BuildEvenSplit\obj\Debug\BuildEvenSplit.csprojResolveAssemblyReference.cache
+C:\Users\Viren\Desktop\CS480\Final-Project\BuildEvenSplit\BuildEvenSplit\obj\Debug\BuildEvenSplit.exe
+C:\Users\Viren\Desktop\CS480\Final-Project\BuildEvenSplit\BuildEvenSplit\obj\Debug\BuildEvenSplit.pdb

@@ -1,0 +1,16 @@
+EVENSPLIT
+**Update Expense
+**Catch deadlock
+**N-Tier Design
+Empty DB method
+1) Delete Group
+2) Delete Member
+-Stored Procedures
+-Delimit Names
+Check Deletes on Cascade
+
+Delimiters - over splitting because a cell contains commas
+
+Balance between exception handling and error handling
+How to make erd
+transactions for selecting a range and displaying it
